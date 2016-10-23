@@ -1,3 +1,4 @@
+<p align="center"> ![http://s8.picofile.com/file/8271934634/3_1.png](http://s8.picofile.com/file/8271934634/3_1.png)
 # [Jove V3.1](https://telegram.me/JoveTG)
 
 | Bot Name | Description | Powered By | Team name |
